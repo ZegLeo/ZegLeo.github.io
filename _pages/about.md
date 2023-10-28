@@ -27,5 +27,5 @@ Awards
 Contact me
 ======
 
-[Email](mailto:211830093@smail.nju.edu.cn) / [Github](https://github.com/starriver0305) /
+[Email](mailto:211830093@smail.nju.edu.cn) / [Github](https://github.com/starriver030515) / [Wechat](ZegLeo.github.io/images/wechat.png
 
