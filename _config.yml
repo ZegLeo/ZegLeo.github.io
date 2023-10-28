@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liuzheng's Homepage"
+title                    : "LiuZheng's Homepage"
 title_separator          : "-"
 name                     : &name "Zheng Liu(刘政)"
 description              : &description "Nanjing University"
