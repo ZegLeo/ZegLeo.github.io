@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I'm a third year undergraduate student from [Department of Computer Science and Technology ]([https://www.nju.edu.cn/](https://cs.nju.edu.cn/main.htm)), [Nanjing University](https://www.nju.edu.cn/).I am currently ranked in the top 2%.
+I'm a third year undergraduate student from [Department of Computer Science and Technology ](https://cs.nju.edu.cn/main.htm)), [Nanjing University](https://www.nju.edu.cn/).I am currently ranked in the top 2%.
 
 Research Interest
 ======
