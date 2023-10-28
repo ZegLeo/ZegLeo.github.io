@@ -9,12 +9,12 @@ redirect_from:
 
 ---
 
-I'm a third year undergraduate student from [Department of Computer Science and Technology ](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/).I am currently ranked in the top 2%.
+I'm a third year undergraduate student from [Department of Computer Science and Technology ](https://cs.nju.edu.cn/main.htm), [Nanjing University](https://www.nju.edu.cn/). My current academic GPA is 4.62, and I am ranked in the top 2%.
 
 Research Interest
 ======
 
-My research interest includes machine learning and deep learning.Currently,my main focus is on computer vision.In addition,I am honored to serve as the team leader for the 'Oss-compass' project,led by [Prof. Liang Wang](https://cs.nju.edu.cn/wangliang/index.htm) from [Institute of Computer Software](https://ics.nju.edu.cn/).
+My research interest includes machine learning and deep learning. Currently, my main focus is computer vision. In addition, I am honored to serve as the team leader for the 'Oss-compass' project, led by [Prof. Liang Wang](https://cs.nju.edu.cn/wangliang/index.htm) from [Institute of Computer Software](https://ics.nju.edu.cn/).
 
 
 Awards
