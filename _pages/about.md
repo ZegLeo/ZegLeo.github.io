@@ -21,7 +21,7 @@ Awards
 ======
 
 - 2022 Silver Award in Nanjing University Algorithm Competition.
-- 2022 Ruli Scholarship.
+- 2022 RuLi Scholarship.
 - 2023 GuoXieBirong Scholarship.
 
 Contact me
