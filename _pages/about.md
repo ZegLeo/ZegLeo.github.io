@@ -14,7 +14,7 @@ I'm a third year undergraduate student from [Department of Computer Science and 
 Research Interest
 ======
 
-My research interest includes Machine Learning and Deep Learning. Currently, my main focus is Computer Vision. In addition, I am honored to serve as the team leader for the 'Oss-compass' project, led by [Prof. Liang Wang](https://cs.nju.edu.cn/wangliang/index.htm) from [Institute of Computer Software](https://ics.nju.edu.cn/).
+My research interest includes Machine Learning and Deep Learning. Currently, my main focus is Computer Vision. In addition, I am honored to serve as the team leader for the 'Oss-Compass' project, led by [Prof. Liang Wang](https://cs.nju.edu.cn/wangliang/index.htm) from [Institute of Computer Software](https://ics.nju.edu.cn/).
 
 
 Awards
