@@ -20,9 +20,10 @@ My research interest includes Machine Learning and Deep Learning. Currently, my 
 Awards
 ======
 
-- 2022 Silver Award in Nanjing University Algorithm Competition.
-- 2022 RuLi Scholarship.
-- 2023 GuoXieBirong Scholarship.
+- 2022 Silver Award For 18th Programming Competition, Nanjing University.
+- 2022 RuLi Scholarship, Nanjing University.
+- 2023 Bronze Award For 19th Programming Competition, Nanjing University.
+- 2023 GuoXieBirong Scholarship, Nanjing University.
 
 Contact me
 ======
